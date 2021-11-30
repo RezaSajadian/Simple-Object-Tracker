@@ -1,2 +1,2 @@
-# mot
-Multiple Object Tracking with Sort Tracker and Yolo Detector
+# Simple Object Tracker
+A simple center point distance based object tracking
